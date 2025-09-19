@@ -1,7 +1,7 @@
 # MyCalendarUI.podspec
 Pod::Spec.new do |s|
   s.name             = 'HorizonCalendar'              # Name of your pod
-  s.module_name  = "HorizonCalendar"
+  s.module_name      = "HorizonCalendar"
   s.version          = '1.0.0'                     # Version
   s.summary          = 'A custom calendar UI component for iOS apps.'
   s.description      = <<-DESC

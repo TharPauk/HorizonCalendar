@@ -14,8 +14,7 @@ Pod::Spec.new do |s|
   s.platform         = :ios, '14.0'
   s.source           = { :git => 'https://github.com/TharPauk/HorizonCalendar.git', :tag => s.version }
   
-  s.source_files     = 'HorizonCalendar/**/*.{swift,h,m}'  # Include all source files
-  s.source_files = "Sources/**/*.{swift,h}"
+  s.source_files     = "Sources/**/*.{swift,h}"
   
   s.swift_version    = '5.0'
   
